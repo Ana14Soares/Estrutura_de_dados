@@ -1,0 +1,13 @@
+{
+    "titulos": {
+      "titulo_cena": "Using the Camera",
+      "subtitulo": "Point your camera at a flat surface"
+    },
+    "mensagem_alerta": "Remember that using the smartphone in unhealthy environments is a safety risk. Use this mode only in safe locations.",
+    "botoes": [
+      {
+        "titulo": "Start Assembly"
+      }
+    ]
+  }
+  

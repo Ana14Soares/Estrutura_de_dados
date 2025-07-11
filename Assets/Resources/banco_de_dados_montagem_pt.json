@@ -1,0 +1,15 @@
+{
+    "titulos": {
+      "titulo_cena": "Iniciar montagem",
+      "subtitulo": "Escolha um modo de montagem!"
+    },
+    "botoes": [
+      {
+        "titulo": "Assistir ao vídeo"
+      },
+      {
+        "titulo": "Projetar a peça"
+      }
+    ]
+  }
+  

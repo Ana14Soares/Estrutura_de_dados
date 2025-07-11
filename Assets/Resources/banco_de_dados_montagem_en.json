@@ -1,0 +1,15 @@
+{
+    "titulos": {
+      "titulo_cena": "Start Assembly",
+      "subtitulo": "Choose an assembly mode!"
+    },
+    "botoes": [
+      {
+        "titulo": "Watch the video"
+      },
+      {
+        "titulo": "Design the part"
+      }
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+  "titulos":{
+    "titulo_cena": "Substituição da Peça",
+    "subtitulo": "Selecione a peça a ser substituida",
+    "caixa_texto":"Digite aqui..."
+  },
+  "substituicoes": [
+    {
+      "titulo": "Módulo Eletrônico"
+    },
+    {
+      "titulo": "Compartimento Pneumático"
+    },
+    {
+      "titulo": "Tampa ou Solenoide Integrada"
+    },
+    {
+      "titulo": "Compartimento Elétrico"
+    },
+    {
+      "titulo": "Indicador Mecânico"
+    },
+    {
+      "titulo": "Adaptador do Eixo"
+    },
+    {
+      "titulo": "Base de Montagem no Atuador"
+    },
+    {
+      "titulo": "Parafusos de Montagem"
+    }
+  ]
+}
