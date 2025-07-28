@@ -4,17 +4,33 @@ Este projeto é um simples sistema de gerenciamento de tarefas, desenvolvido, pr
 
 ## Funcionalidades
 
-- adicionar operações;
-- excluir operações;
-- concluir operações;
-- desfazer operações.
+- Adicionar operações;
+- Excluir operações;
+- Concluir operações;
+- Desfazer operações.
 
 ## Tecnologias Utilizadas
 
+- Linguagem C;
+- Lingugaem C#;
+- Enginee Unity;
+- VSCode;
+  
 ## Estrutura do projeto
 
+- 
+- `GestorTarefas.cs`
+- `TrabalhoNativo.cs` 
 
 ## Detalhes do código
+Pilha
+
+- `bool Fila_create`
+- `void Fila_destroy`
+- `Fila_put`
+- `Fila_get`;
+- `Fila_isEmpty`;
+- `Fila_isFull`
 
 
 ## Autores
