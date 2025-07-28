@@ -18,19 +18,26 @@ Este projeto é um simples sistema de gerenciamento de tarefas, desenvolvido, pr
   
 ## Estrutura do projeto
 
-- 
+- `trabalho_ed.c`
 - `GestorTarefas.cs`
 - `TrabalhoNativo.cs` 
 
 ## Detalhes do código
 Pilha
 
-- `bool Fila_create`
-- `void Fila_destroy`
+- `Fila_create`
+- `Fila_destroy`
 - `Fila_put`
-- `Fila_get`;
-- `Fila_isEmpty`;
+- `Fila_get`
+- `Fila_isEmpty`
 - `Fila_isFull`
+
+Lista
+
+- `Lista_cria`
+- `Lista_inserir`
+- `Lista_mostrar`
+- `Lista_removePorIndice`
 
 
 ## Autores
