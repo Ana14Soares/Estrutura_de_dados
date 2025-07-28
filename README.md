@@ -14,7 +14,7 @@ Este projeto é um simples sistema de gerenciamento de tarefas, desenvolvido, pr
 - Linguagem C;
 - Lingugaem C#;
 - Enginee Unity;
-- VSCode;
+- VSCode.
   
 ## Estrutura do projeto
 
